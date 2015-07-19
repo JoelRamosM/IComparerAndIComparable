@@ -1,0 +1,6 @@
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\bin\Debug\CustomOrderBy.WithIComparable.exe.config
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\bin\Debug\CustomOrderBy.WithIComparable.exe
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\bin\Debug\CustomOrderBy.WithIComparable.pdb
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\obj\Debug\CustomOrderBy.WithIComparable.csprojResolveAssemblyReference.cache
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\obj\Debug\CustomOrderBy.WithIComparable.exe
+C:\Workspace\Estudos\CustomOrderBy\CustomOrderBy.WithIComparable\obj\Debug\CustomOrderBy.WithIComparable.pdb
